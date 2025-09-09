@@ -1,0 +1,1 @@
+cd App ; npm run dev ; open localhost
